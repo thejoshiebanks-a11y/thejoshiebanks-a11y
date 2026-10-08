@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Joshie 👋
 
-<!--
-**thejoshiebanks-a11y/thejoshiebanks-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught builder. Two months into coding, shipping from my iPhone.
 
-Here are some ideas to get you started:
+### Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[HODL](https://github.com/thejoshiebanks-a11y/hodl-watch)**: explainable Health scores and push alerts for Solana tokens. You trade. HODL watches.
+[Open the app](https://hodlterminal.vercel.app)
+
+### Stack
+
+Next.js · TypeScript · Tailwind · Redis · Web Push · Vitest
+
+### Find me
+
+X: [@Joshie_Sama](https://x.com/Joshie_Sama)
